@@ -1,2 +1,11 @@
 Initial start of hadoop:
 Tutorial - Getting started to be completed soon
+Tutorial - "Getting started" completed on 30. May of 2017
+
+Exercise:
+labs/1-mapreduce-hadoop/hdfs.sh
+`hadoop fs -put /home/cloudera/Documents/pg16328.t`xt
+`hadoop fs -ls`
+Output:
+_drwxr-xr-x   - cloudera cloudera          0 2017-05-23 16:17 .sparkStaging
+-rw-r--r--   1 cloudera cloudera     301063 2017-05-30 17:37 pg16328.txt
